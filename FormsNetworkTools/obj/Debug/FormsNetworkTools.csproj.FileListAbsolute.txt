@@ -1,0 +1,11 @@
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\bin\Debug\FormsNetworkTools.exe.config
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\bin\Debug\FormsNetworkTools.exe
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\bin\Debug\FormsNetworkTools.pdb
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.csprojAssemblyReference.cache
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.Properties.Resources.resources
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.csproj.GenerateResource.cache
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.exe
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.pdb
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.FormMain.resources
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.FormPinger.resources
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\FormsNetworkTools\obj\Debug\FormsNetworkTools.FormInterfacesInfo.resources

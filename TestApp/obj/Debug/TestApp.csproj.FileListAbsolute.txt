@@ -1,0 +1,6 @@
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\TestApp\bin\Debug\TestApp.exe
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\TestApp\obj\Debug\TestApp.exe
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Kajetan\source\repos\FormsNetworkTools\FormsNetworkTools\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
