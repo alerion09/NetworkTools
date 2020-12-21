@@ -1,4 +1,4 @@
-# NetworkTols
+# NetworkTools
 First project in c#. App displays internet status, informations about nettwork interfaces and is able to pinging ip addresses.
 <br />
 <br />
