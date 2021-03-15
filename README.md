@@ -1,5 +1,5 @@
 # NetworkTools
-First project in c#. App displays internet status, informations about nettwork interfaces and is able to pinging ip addresses.
+Windows application showing internet status, informations about network interfaces. You can also pinging ip addresses using this app.
 <br />
 <br />
 Home Screen.
